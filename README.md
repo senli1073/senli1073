@@ -15,17 +15,11 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#senli1073-overview">
-        <img src="https://raw.githubusercontent.com/senli1073/github-stats-transparent/output/generated/overview.svg" alt="senli1073" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="#senli1073-languages">
-        <img src="https://raw.githubusercontent.com/senli1073/github-stats-transparent/output/generated/languages.svg" alt="senli1073" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="#senli1073-overview">
+    <img src="https://raw.githubusercontent.com/senli1073/github-stats-transparent/output/generated/overview.svg" alt="senli1073" />
+  </a>
+  <a href="#senli1073-languages">
+    <img src="https://raw.githubusercontent.com/senli1073/github-stats-transparent/output/generated/languages.svg" alt="senli1073" />
+  </a>
+</p>
